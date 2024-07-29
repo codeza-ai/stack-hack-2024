@@ -75,8 +75,8 @@ Do not collect real Payments.
 
 ​​​​​​​## Helpful Links​​​​​​​.
 
-Responsive Web Design: https://www.freecodecamp.org/learn/2022/responsive-web-design/​​​​​​​
-Frontend Libraries: https://www.freecodecamp.org/learn/front-end-development-libraries/
-Backend Development: https://www.freecodecamp.org/learn/back-end-development-and-apis/
-Web Developer BootCamp: https://www.udemy.com/course/the-web-developer-bootcamp
-Fullstack Roadmap: https://roadmap.sh/full-stack 
+- Responsive Web Design: https://www.freecodecamp.org/learn/2022/responsive-web-design/​​​​​​​
+- Frontend Libraries: https://www.freecodecamp.org/learn/front-end-development-libraries/
+- Backend Development: https://www.freecodecamp.org/learn/back-end-development-and-apis/
+- Web Developer BootCamp: https://www.udemy.com/course/the-web-developer-bootcamp
+- Fullstack Roadmap: https://roadmap.sh/full-stack 
